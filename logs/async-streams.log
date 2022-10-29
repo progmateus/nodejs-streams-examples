@@ -1,0 +1,6 @@
+[duplex writable] this_is_my
+[duplex writable] custom_readable
+[writable] wholeStrign this_is_my,custom_readable
+[writable] wholeStrign 25
+
+ The operation was aborted
